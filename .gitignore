@@ -1,0 +1,8 @@
+build/
+out/
+!results/.gitkeep
+*.vcd
+*.fst
+*.log
+__pycache__/
+*.pyc

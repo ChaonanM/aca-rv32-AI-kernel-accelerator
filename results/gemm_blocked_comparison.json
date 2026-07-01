@@ -1,0 +1,1 @@
+{"kernel":"gemm_4x4_blocked_2x2","result":[4294967260,110,80,16,4294967160,16,72,306,320,4294967140,56,4294966994,36,346,496,268],"baseline":{"cycles":601,"instructions":375,"add_count":76,"mul_count":64,"mac_count":0},"custom":{"cycles":537,"instructions":311,"add_count":12,"mul_count":0,"mac_count":64},"speedup":1.119181,"instruction_reduction":0.170667}

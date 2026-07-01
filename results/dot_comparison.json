@@ -1,0 +1,1 @@
+{"kernel":"dot","result":[70],"baseline":{"cycles":64,"instructions":38,"add_count":4,"mul_count":4,"mac_count":0},"custom":{"cycles":60,"instructions":34,"add_count":0,"mul_count":0,"mac_count":4},"speedup":1.066667,"instruction_reduction":0.105263}
